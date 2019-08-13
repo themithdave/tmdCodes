@@ -1,0 +1,50 @@
+#hardware{
+	float: left;
+	margin-top: 50px;
+	margin-left: 400px;
+	width: 320px;
+	height: 520px;
+	background-color: #4F4F4F;
+}
+
+#display{
+	font-size: 30px;
+	width: 290px;
+	height: 50px;
+	margin-top: 25px;
+	margin-left: 10px;
+	background-color: #F5F5DC;
+
+}
+
+button{
+	margin: 5px 5px 5px 5px;
+	font-size: 30px;
+	width: 60px;
+	height: 60px;
+}
+
+.btn-0{
+	width: 135px;
+	height: 60px;
+}
+
+
+#col-0{
+	
+	margin-top: 10px;
+	
+}
+
+#col-1{
+
+	
+	margin-top: 15px;
+
+}
+
+#teclado{
+	
+	margin-left: 10px;
+
+}
